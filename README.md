@@ -22,8 +22,7 @@ https://replit.com/@codefromrvk/markTwo?embed=1&output=1
   
 ## Tech Stack
 
-HTML,CSS,Javascript
-
+NodeJs
 
 
   
